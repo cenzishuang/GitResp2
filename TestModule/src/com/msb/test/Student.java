@@ -7,4 +7,5 @@ public class Student {
     private double weight;
     private int stuid;
     private String realName;
+    private String realAge;
 }
